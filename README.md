@@ -1,1 +1,1 @@
-# this is my learning's place
+## 详情请见wiki
