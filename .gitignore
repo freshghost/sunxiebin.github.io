@@ -7,3 +7,4 @@ target/
 bin/
 include/
 nltk_data/
+lib/
