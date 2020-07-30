@@ -1,6 +1,0 @@
-
-spring:
-  application:
-    name: eureka-provider-2
-server:
-  port: 8082
