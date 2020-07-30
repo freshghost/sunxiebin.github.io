@@ -32,7 +32,5 @@ String text = "算法工程师\n" +
 List<String> phraseList = HanLP.extractPhrase(text, 10);
 System.out.println(phraseList);
 
-
-
     }
 }
