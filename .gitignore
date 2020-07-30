@@ -2,3 +2,8 @@
 # vim temp file
 *.swp
 janusgraph-0.4.0-hadoop2
+target/
+.*
+bin/
+include/
+nltk_data/
