@@ -4,5 +4,4 @@
 
 This is a paragraph.
 
-[https://github.com/freshghost/sunxiebin.github.io/wiki](https://github.com/freshghost/sunxiebin.github.io/wiki)
 
