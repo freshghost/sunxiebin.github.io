@@ -4,8 +4,3 @@
 
 This is a paragraph.
 
-
-
-
-
-
